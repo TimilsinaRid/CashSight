@@ -1,0 +1,62 @@
+date,type,amount,category,client_or_vendor,notes
+2026-01-01,expense,1200,salary,Team Payroll,January salary
+2026-01-02,expense,450,rent,Office Space Co.,Office rent January
+2026-01-03,income,1800,project payment,Apex Media,Website redesign payment (INV-201)
+2026-01-04,expense,120,software,Canva Pro,Monthly subscription
+2026-01-05,expense,300,supplier,Print Works Ltd,Flyer and brochure printing
+2026-01-06,income,950,consulting,Horizon Consulting,Strategy session (INV-202)
+2026-01-08,expense,200,utilities,PowerGrid Services,Electricity bill
+2026-01-10,income,1500,project payment,Orion Digital,Social media campaign (INV-203)
+2026-01-11,expense,85,software,Slack,Team subscription
+2026-01-12,expense,75,internet,FiberNet,Monthly internet
+2026-01-13,expense,220,loan repayment,City Bank,EMI payment
+2026-01-15,income,600,invoice payment,MK Consulting,Overdue invoice (INV-204)
+2026-01-16,expense,90,transport,RideHire,Client meeting travel
+2026-01-18,expense,380,supplier,DesignLab Studio,Contract designer payment
+2026-01-20,income,2100,project payment,NovaTech,Mobile app milestone (INV-205)
+2026-01-22,expense,140,software,Notion Labs,Workspace subscription
+2026-01-25,expense,260,marketing,SocialBoost Ads,Instagram ad campaign
+2026-01-27,income,1300,project payment,Apex Media,Landing page redesign (INV-206)
+2026-01-29,expense,110,utilities,WaterWorks,Water bill
+2026-01-30,expense,320,tax,Revenue Office,Quarterly tax prepayment
+
+2026-02-01,expense,1200,salary,Team Payroll,February salary
+2026-02-02,expense,450,rent,Office Space Co.,Office rent February
+2026-02-03,income,1700,project payment,Horizon Consulting,Retainer payment (INV-207)
+2026-02-04,expense,120,software,Canva Pro,Monthly subscription
+2026-02-05,expense,310,supplier,Print Works Ltd,Roll-up banners
+2026-02-06,income,900,consulting,MK Consulting,Process audit session (INV-208)
+2026-02-08,expense,210,utilities,PowerGrid Services,Electricity bill
+2026-02-10,income,2300,project payment,NovaTech,Phase 2 milestone (INV-209)
+2026-02-11,expense,85,software,Slack,Team subscription
+2026-02-12,expense,75,internet,FiberNet,Monthly internet
+2026-02-13,expense,220,loan repayment,City Bank,EMI payment
+2026-02-15,income,800,invoice payment,DesignLab Studio,Brand kit delivery (INV-210)
+2026-02-16,expense,95,transport,RideHire,Client visits
+2026-02-18,expense,400,supplier,DesignLab Studio,Extra design hours
+2026-02-20,income,1900,project payment,Orion Digital,Campaign extension (INV-211)
+2026-02-22,expense,140,software,Notion Labs,Workspace subscription
+2026-02-24,expense,280,marketing,SocialBoost Ads,Facebook ad campaign
+2026-02-26,income,1250,project payment,Apex Media,Email funnel setup (INV-212)
+2026-02-27,expense,120,utilities,WaterWorks,Water bill
+2026-02-28,expense,350,tax,Revenue Office,Tax installment
+2026-03-01,expense,1200,salary,Team Payroll,March salary
+2026-03-02,expense,450,rent,Office Space Co.,Office rent March
+2026-03-03,income,1750,project payment,Horizon Consulting,Q1 strategy retainer (INV-213)
+2026-03-04,expense,120,software,Canva Pro,Monthly subscription
+2026-03-05,expense,320,supplier,Print Works Ltd,Client pitch decks
+2026-03-06,income,950,consulting,MK Consulting,Training workshop (INV-214)
+2026-03-08,expense,215,utilities,PowerGrid Services,Electricity bill
+2026-03-10,income,2400,project payment,NovaTech,Final milestone (INV-215)
+2026-03-11,expense,85,software,Slack,Team subscription
+2026-03-12,expense,75,internet,FiberNet,Monthly internet
+2026-03-13,expense,220,loan repayment,City Bank,EMI payment
+2026-03-15,income,900,invoice payment,DesignLab Studio,Maintenance retainer (INV-216)
+2026-03-16,expense,100,transport,RideHire,On-site client meetings
+2026-03-18,expense,420,supplier,DesignLab Studio,Additional branding work
+2026-03-20,income,2000,project payment,Orion Digital,New campaign launch (INV-217)
+2026-03-22,expense,140,software,Notion Labs,Workspace subscription
+2026-03-24,expense,300,marketing,SocialBoost Ads,Lead generation ads
+2026-03-26,income,1350,project payment,Apex Media,Quarterly review package (INV-218)
+2026-03-27,expense,125,utilities,WaterWorks,Water bill
+2026-03-30,expense,360,tax,Revenue Office,Tax installment
